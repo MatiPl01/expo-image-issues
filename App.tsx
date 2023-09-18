@@ -1,5 +1,5 @@
 /* eslint-disable react/react-in-jsx-scope */
-import {Image} from 'expo-image';
+import Image from 'react-native-fast-image';
 import {useState} from 'react';
 import {
   SafeAreaView,
