@@ -12,7 +12,7 @@ PODS:
     - ExpoModulesCore
   - Expo (49.0.11):
     - ExpoModulesCore
-  - ExpoImage (1.5.1):
+  - ExpoImage (1.9.0):
     - ExpoModulesCore
     - SDWebImage (~> 5.17.0)
     - SDWebImageAVIFCoder (~> 0.10.1)
@@ -750,7 +750,7 @@ SPEC CHECKSUMS:
   EXFileSystem: 2b826a3bf1071a4b80a8457e97124783d1ac860e
   EXFont: 738c44c390953ebcbab075a4848bfbef025fd9ee
   Expo: 8a2d2c235bcbe4f41774562a0635bd74c174858c
-  ExpoImage: bbd451559f49f78d858592fe1d4d74aedb3d900b
+  ExpoImage: cfaa9c379a3467c7863a187a1059c220b27a0741
   ExpoKeepAwake: be4cbd52d9b177cde0fd66daa1913afa3161fc1d
   ExpoModulesCore: 51cb2e7ab4c8da14be3f40b66d54c1781002e99d
   FBLazyVector: 5d4a3b7f411219a45a6d952f77d2c0a6c9989da5
@@ -814,4 +814,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: c7ec8ad8e900ad36cc8ad4149aa5b4cbd4675064
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.13.0
